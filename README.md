@@ -6,8 +6,7 @@
  
  * As of 11-4-17, I'm working on implementing choices / progression / development details instead of a proper, interesting story.
  
- * Development details: The entire game exists within the main method of the TextAdventure class. The game itself is executable, and does currently (11-4-17) not implement any additional classes. The game
- * is built so that I can practice: using boolean conditions for while loop exits, creating strong if else if statements, and communicating with the user efficiently through clear dialogue / prompts.
+ * Development details: The entire game exists within the main method of the TextAdventure class. The game itself is executable, and does currently (11-4-17) not implement any additional classes. The game is built so that I can practice: using boolean conditions for while loop exits, creating strong if else if statements, and communicating with the user efficiently through clear dialogue / prompts.
 
  * Features I would like to implemenet: Currently, the game uses boolean switches to determine whether or not the user has something. Eventually, I would like to move these booleans into a seperate class and define them in their own respective methods. (getKey, getBaskbetball, etc.). In addition I'd like to create a player object of the DefiningClass inside of the TextAdventure class. I believe this would allow the TextAdventure class to be understandably more readable. 
 
