@@ -16,3 +16,7 @@
  * Date Started: 11/3/17
  * Author: Jared R. Taylor
  * Why: Fun! I guess?
+
+* Version Reference:
+* v1.0 (11-3-17)
+* v1.1 (11-4-17)
