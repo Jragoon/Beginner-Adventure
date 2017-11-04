@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TextAdventure
+comment0.text=\r\n\ Important\ information\:\ Consult\ the\ README.TXT\ for\ information\ regarding\ this\ project's\ purpose,\ development\ details,\ and\ future\ updates.\ \r\n\r\n\ @author\ Jared\ R.\ Taylor\r\n\ @version\ v1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
