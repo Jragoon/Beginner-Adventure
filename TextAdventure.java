@@ -42,6 +42,7 @@ public class TextAdventure
         System.out.println("In addition to the objects confined to the... modest, space of the room- you notice both a door and a window.");
         System.out.println();
         System.out.println("If you find yourself having trouble, enter \"help\".");
+        System.out.println("To exit the game, enter \"quit\". ");
         // End introduction sequence (v1.1) 
         
         boolean inRoom = true; // Keeps cycling user for the inRoom choices. There are multiple ways inside of the while loop the user can change the boolean to (false) which will exit the loop (v1.1)
@@ -326,6 +327,10 @@ public class TextAdventure
             else if (userAction.equals("help"))
             {
                 System.out.println("Hello- if you're having trouble, try using simple, short commands to interact with the environment. To get started, I'd recommend looking around the room."); // Help feature to give direction (v1.2)
+            }
+            else if(userAction.equals("quit"))
+            {
+                break;
             }
             else if (userAction.equals("read password") || userAction.equals("look at password") || userAction.equals("look password") || userAction.equals("read paper"))
             {
