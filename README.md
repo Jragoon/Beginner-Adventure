@@ -21,3 +21,5 @@
 * v1.0 (11-3-17)
 * v1.1 (11-4-17)
 * v1.2 (11-5-17)
+
+* (11-5-17) I uploaded the .jar && .bat files. In order to run the program on your own machine, download both of these files and place them within the same directory. Then, double click the batch file to execute. 
